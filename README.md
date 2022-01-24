@@ -6,6 +6,7 @@ libdmet
 
 
 Density matrix embedding implementation for correlated electronic properties
+Parallelized with OpenMPI.
 
 ### Copyright
 
